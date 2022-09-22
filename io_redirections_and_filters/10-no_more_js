@@ -1,2 +1,2 @@
 #!/bin/bash
-find *.js -mount -type f -delete  
+find -path . *.js  -type f -delete 
