@@ -1,3 +1,4 @@
 #!/bin/bash
 cat /etc/passwd  | cut -d ":" -f 1,6 | sort
 find -empty | rev | cut -d " " -f 1 | rev
+cat /etc/passwd  | cut -d ":" -f 1,6
