@@ -1,0 +1,12 @@
+total 36
+drwxr-xr-x 2 root root  271 Sep 22 16:24 .
+drwxr-xr-x 3 root root 4096 Sep 22 16:15 ..
+-rwxr-xr-x 1 root root   68 Sep 22 15:49 7-file
+-rwxr-xr-x 1 root root   82 Sep 22 15:46 7-file~
+-rw-r--r-- 1 root root   42 Sep 22 15:40 \*\'Best
+-rw-r--r-- 1 root root   12 Sep 22 15:47 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root   12 Sep 22 15:31 \*\\"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep 22 15:36 \*\\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root   12 Sep 22 15:29 \*\\"Best School"\\\*$\?\*\*\*\*\*:\)
+-rw-r--r-- 1 root root   12 Sep 22 15:45 \*\\Best School\\*$?*****:\)
+-rw-r--r-- 1 root root    0 Sep 22 16:24 ls_cwd_content
