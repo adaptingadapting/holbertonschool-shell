@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines=11 |cut -f 1|uniq -c|sort -g -r
+cut -f 1 |sort | uniq -c | sort -n -r | head -n 11 | cut -b 8-
