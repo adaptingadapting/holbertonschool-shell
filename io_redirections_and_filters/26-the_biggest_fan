@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1|uniq -c|sort -g -r
+head --lines=11 |cut -f 1|uniq -c|sort -g -r
