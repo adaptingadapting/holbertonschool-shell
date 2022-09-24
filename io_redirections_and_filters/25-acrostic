@@ -1,2 +1,2 @@
 #!/bin/bash
-less | cut -c 1 | column | tr -d '\t'
+cut -c 1 | paste -s -d ' ' | tr -d ' '
