@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%s\n" {{m..o}{m..o}}|cut -c 2,3|grep -v oo
