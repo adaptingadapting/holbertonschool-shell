@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -b | paste -d" " - -|cut -b 8-
+cat -b | paste -d" " - - | cut -d "	" -f 2|cut -d " " -f 1
